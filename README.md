@@ -8,6 +8,10 @@ Group: 23
 
 Course: DBL Process Mining, Faculty of Mathematics and Computer Science, Eindhoven University of Technology
 
+![newest version](https://github.com/Michaela-Ivanova/Process-Mining-23/assets/109029225/bba9c6f9-d4c4-4f0e-8406-caae60a12edf)
+
+
+
 **General Introduction**
 
 This tool is trained and evaluated on the Italian Road Fines Management dataset, 
